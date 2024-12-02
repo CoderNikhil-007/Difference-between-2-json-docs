@@ -1,0 +1,44 @@
+{
+    "key differences": {
+        "Doc 1 keys": [
+            "Runs"
+        ],
+        "Doc 1 Vals": {
+            "Runs": 34347
+        },
+        "Doc 2 keys": [
+            "Run"
+        ],
+        "Doc 2 Vals": {
+            "Run": 34000
+        }
+    },
+    "value differences": [
+        {
+            "Milestones": {
+                "key differences": {
+                    "Doc 1 keys": [
+                        "5W Hauls"
+                    ],
+                    "Doc 1 Vals": {
+                        "5W Hauls": 2
+                    },
+                    "Doc 2 keys": [
+                        "5WM"
+                    ],
+                    "Doc 2 Vals": {
+                        "5WM": 2
+                    }
+                },
+                "value differences": [
+                    {
+                        "50s": {
+                            "doc 1 val": 164,
+                            "doc 2 val": 150
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Sachin",
+    "Run": 34000,
+    "Wickets": 200,
+    "Milestones": {
+        "100s": 100,
+        "50s": 150,
+        "5WM": 2
+    }
+}
